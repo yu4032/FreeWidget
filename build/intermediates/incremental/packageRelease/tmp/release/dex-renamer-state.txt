@@ -1,0 +1,4 @@
+#Sat Aug 01 01:25:08 CST 2026
+base.0=/home/zhaoyu/HyperCeiler/freewidget/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

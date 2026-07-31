@@ -1,0 +1,2 @@
+com.hellovoid.freewidget
+array xposed_scope

@@ -1,0 +1,20 @@
+<lint-module
+    format="1"
+    dir="/home/zhaoyu/HyperCeiler/freewidget"
+    name=":freewidget"
+    type="APP"
+    maven="HyperCeiler:freewidget:unspecified"
+    agpVersion="9.3.0"
+    buildFolder="build"
+    bootClassPath="/home/zhaoyu/Android/platforms/android-37.0/android.jar:/home/zhaoyu/Android/build-tools/36.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-37.0"
+    neverShrinking="true"
+    highlightGradualR8Api="false">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
