@@ -1,8 +1,0 @@
-com.hellovoid.freewidget-pngs-0 /home/zhaoyu/HyperCeiler/freewidget/build/generated/res/pngs/release
-com.hellovoid.freewidget-updated_navigation_xml-1 /home/zhaoyu/HyperCeiler/freewidget/build/generated/updated_navigation_xml/release
-com.hellovoid.freewidget-packageReleaseResources-2 /home/zhaoyu/HyperCeiler/freewidget/build/intermediates/incremental/release/packageReleaseResources/merged.dir
-com.hellovoid.freewidget-packageReleaseResources-3 /home/zhaoyu/HyperCeiler/freewidget/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
-com.hellovoid.freewidget-release-4 /home/zhaoyu/HyperCeiler/freewidget/build/intermediates/merged_res/release/mergeReleaseResources
-com.hellovoid.freewidget-main-5 /home/zhaoyu/HyperCeiler/freewidget/src/main/res
-com.hellovoid.freewidget-release-6 /home/zhaoyu/HyperCeiler/freewidget/src/release/res
-gradleHome-0 /home/zhaoyu/.gradle
